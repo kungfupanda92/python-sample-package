@@ -1,1 +1,1 @@
-from .ex-package import *
+from .ex_package import *
